@@ -10,15 +10,17 @@ Example usage MEF usage.
 
 ### Built With
 .Net Core 3.1
+<br />
 .Net Standard 2.0
+<br />
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-Just an example project.
-Please check out this repo and try running and reading the code.
-There are two executable projects.
-MefExample.Simple.Main - Single project simple usage.
-MefExampleMain - Multi project modular approach example.
+Just an example project.<br />
+Please check out this repo and try running and reading the code.<br />
+There are two executable projects.<br />
+MefExample.Simple.Main - Single project simple usage.<br />
+MefExampleMain - Multi project modular approach example.<br />
 
 
 <!-- LICENSE -->
