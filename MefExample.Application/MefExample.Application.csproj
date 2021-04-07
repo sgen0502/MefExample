@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MefExample.Core\MefExample.Core.csproj" />
+    <ProjectReference Include="..\MefExample.Module.HelloWorld\MefExample.Module.HelloWorld.csproj" />
+    <ProjectReference Include="..\MefExample.Module.Help\MefExample.Module.Help.csproj" />
+    <ProjectReference Include="..\MefExample.Shared\MefExample.Shared.csproj" />
+  </ItemGroup>
+
+</Project>
